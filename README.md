@@ -25,4 +25,4 @@ npm install
 
 ```shell
 npm run dev
-```"# recipe-app" 
+```
