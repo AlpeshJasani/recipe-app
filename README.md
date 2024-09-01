@@ -4,6 +4,8 @@
 - Responsive Design
 - Deployed
 
+## Demo : https://recipe-app-black-tau.vercel.app/
+
 # Run Locally
 
 ### Setup .env file
