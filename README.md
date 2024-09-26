@@ -4,7 +4,7 @@
 - Responsive Design
 - Deployed
 
-## Demo : https://recipe-app-black-tau.vercel.app/
+## Live : https://recipe-app-black-tau.vercel.app/
 
 # Run Locally
 
